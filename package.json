@@ -1,0 +1,15 @@
+{
+  "name": "js-now",
+  "version": "0.0.1",
+  "description": "javascript now() function",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "now()"
+  ],
+  "author": "wanglihui.sjz@gmail.com",
+  "license": "GUN"
+}
